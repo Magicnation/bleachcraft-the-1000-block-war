@@ -1,0 +1,6 @@
+package io.github.magicnation.main;
+
+public class Information {
+	static String modid = "magicnation-bleachcraft";
+	
+}

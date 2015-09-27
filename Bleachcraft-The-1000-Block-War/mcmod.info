@@ -1,0 +1,16 @@
+[
+{
+  "modid": "magicnation-bleachcraft",
+  "name": "Bleach-The-1000-Block-War",
+  "description": "A mod base on the anime Bleach",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Juan"],["Chaoschamp"]
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

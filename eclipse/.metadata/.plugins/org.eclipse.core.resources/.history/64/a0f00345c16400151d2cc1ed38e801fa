@@ -1,0 +1,6 @@
+package io.github.magicnation.main;
+
+public class Information {
+	public static String ModId = "magicnation-bleachcraft";
+	public static String version = "1.0"
+}

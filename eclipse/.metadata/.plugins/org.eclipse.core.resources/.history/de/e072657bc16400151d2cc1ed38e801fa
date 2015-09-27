@@ -1,0 +1,15 @@
+package io.github.magicnation.main;
+
+import cpw.mods.fml.common.Mod;
+import cpw.mods.fml.common.Mod.EventHandler;
+import cpw.mods.fml.common.event.FMLInitializationEvent;
+
+@Mod(modid = Information.ModId, version = Information.Version)
+public class ExampleMod
+{
+    @EventHandler
+    public void init(FMLInitializationEvent event)
+    {
+    	
+    }
+}
